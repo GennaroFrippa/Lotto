@@ -1,5 +1,5 @@
-echo Lotto >> README.md
+echo "Lotto" >> README.md
 git init
-git config user.name "nomeutente"
-git config user.email "mailutente@gmail.com"
+git config user.name "GennaroFrippa"
+git config user.email "frgennaro01@gmail.com"
 git commit -m "first commit"
